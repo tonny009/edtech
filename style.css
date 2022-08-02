@@ -1,0 +1,26 @@
+.menu_list {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.mt-5 {
+    margin-top: 5rem !important;
+}
+
+h1 {
+    color: black;
+}
+
+.carousel-caption {
+    top: 30%;
+}
+
+.row-cols-1 img {
+    width: 31rem;
+    height: 10rem;
+}
