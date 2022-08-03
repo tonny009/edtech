@@ -32,3 +32,60 @@ h1 {
 .edtech_bg-primary {
     background-color: rgb(191, 216, 208);
 }
+
+/* .footer_design{
+    height: ;
+} */
+footer {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    top: 4000px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+
+}
+
+.upper {
+    margin-top: 40px;
+    position: relative;
+    color: aliceblue;
+
+}
+
+#line {
+    width: 520px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.end-menu {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+    width: 698px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+
+}
+
+.social-link {
+    column-gap: 40px;
+    margin-top: 00px;
+    font-size: 30px;
+
+}
+
+@media only screen and (max-width:688px) {
+    footer {
+        top: 8600px;
+    }
+
+}
