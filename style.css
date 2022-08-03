@@ -33,15 +33,14 @@ h1 {
     background-color: rgb(191, 216, 208);
 }
 
-/* .footer_design{
-    height: ;
-} */
+
+
 footer {
     position: absolute;
     width: 100%;
     left: 0px;
     right: 0px;
-    top: 4000px;
+    top: 4200px;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -91,7 +90,12 @@ footer {
 
 @media only screen and (max-width:688px) {
     footer {
-        top: 8600px;
+        top: 8800px;
+    }
+
+    .student img {
+        width: 31rem;
+        height: 10rem;
     }
 
 }
