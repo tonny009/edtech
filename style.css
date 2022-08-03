@@ -24,3 +24,11 @@ h1 {
     width: 31rem;
     height: 10rem;
 }
+
+.acc_part {
+    margin: auto
+}
+
+.edtech_bg-primary {
+    background-color: rgb(191, 216, 208);
+}
